@@ -1,3 +1,3 @@
 git add .
-git commit -m "zhaokaifeng.com Update"
+git commit -m "news.zhaokaifeng.top Update"
 git push
